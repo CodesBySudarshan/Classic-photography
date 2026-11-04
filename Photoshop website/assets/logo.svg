@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- Minimalist Geometry Photography Lens & Aperture Logo -->
+  <circle cx="24" cy="24" r="22" stroke="#ffffff" stroke-width="1.2" opacity="0.3"/>
+  <circle cx="24" cy="24" r="17" stroke="#ffffff" stroke-width="1.5"/>
+  <circle cx="24" cy="24" r="7" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <path d="M24 7 L24 17" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M38 16 L29.5 21" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M38 32 L29.5 27" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M24 41 L24 31" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M10 32 L18.5 27" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M10 16 L18.5 21" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/>
+  <circle cx="24" cy="24" r="2.5" fill="#ffffff"/>
+</svg>
